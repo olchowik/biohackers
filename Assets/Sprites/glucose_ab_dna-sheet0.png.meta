@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 4c9c360836e2f6844bb548f6da3fb129
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: glucose_ab_dna-sheet0
+    21300002: glucose_ab_dna-sheet0_0
+    21300004: glucose_ab_dna-sheet0_1
+    21300006: glucose_ab_dna-sheet0_2
+    21300008: glucose_ab_dna-sheet0_3
+    21300010: glucose_ab_dna-sheet0_4
+    21300012: glucose_ab_dna-sheet0_5
+    21300014: glucose_ab_dna-sheet0_6
+    21300016: glucose_ab_dna-sheet0_7
+    21300018: glucose_ab_dna-sheet0_8
+    21300020: glucose_ab_dna-sheet0_9
+    21300022: glucose_ab_dna-sheet0_10
+    21300024: glucose_ab_dna-sheet0_11
+    21300026: glucose_ab_dna-sheet0_12
+    21300028: glucose_ab_dna-sheet0_13
+    21300030: glucose_ab_dna-sheet0_14
+    21300032: glucose_ab_dna-sheet0_15
+    21300034: glucose_ab_dna-sheet0_16
+    21300036: glucose_ab_dna-sheet0_17
+    21300038: glucose_ab_dna-sheet0_18
+    21300040: glucose_ab_dna-sheet0_19
+    21300042: glucose_ab_dna-sheet0_20
+    21300044: glucose_ab_dna-sheet0_21
+    21300046: glucose_ab_dna-sheet0_22
+    21300048: glucose_ab_dna-sheet0_23
+    21300050: glucose_ab_dna-sheet0_24
+    21300052: glucose_ab_dna-sheet0_25
+    21300054: glucose_ab_dna-sheet0_26
+    21300056: glucose_ab_dna-sheet0_27
+    21300058: glucose_ab_dna-sheet0_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: glucose_ab_dna-sheet0_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 394
+        width: 158
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 406
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 429
+        width: 108
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 257
+        width: 179
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 323
+        width: 102
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 261
+        width: 152
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 216
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 265
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 218
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 231
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 172
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 182
+        width: 147
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 148
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 148
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 116
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_18
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 116
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 113
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 117
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 114
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 86
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 83
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 83
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 87
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glucose_ab_dna-sheet0_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 79
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

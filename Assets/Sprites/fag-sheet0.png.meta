@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 544489c58d95fe742890eefcb6a7e79a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fag-sheet0
+    21300002: fag-sheet0_0
+    21300004: fag-sheet0_1
+    21300006: fag-sheet0_2
+    21300008: fag-sheet0_3
+    21300010: fag-sheet0_4
+    21300012: fag-sheet0_5
+    21300014: fag-sheet0_6
+    21300016: fag-sheet0_7
+    21300018: fag-sheet0_8
+    21300020: fag-sheet0_9
+    21300022: fag-sheet0_10
+    21300024: fag-sheet0_11
+    21300026: fag-sheet0_12
+    21300028: fag-sheet0_13
+    21300030: fag-sheet0_14
+    21300032: fag-sheet0_15
+    21300034: fag-sheet0_16
+    21300036: fag-sheet0_17
+    21300038: fag-sheet0_18
+    21300040: fag-sheet0_19
+    21300042: fag-sheet0_20
+    21300044: fag-sheet0_21
+    21300046: fag-sheet0_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fag-sheet0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 402
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 402
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 402
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 402
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 402
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 416
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 323
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 306
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 306
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 306
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 306
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 319
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 262
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 243
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 246
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 243
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 247
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 254
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 260
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 185
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 184
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fag-sheet0_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 181
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
