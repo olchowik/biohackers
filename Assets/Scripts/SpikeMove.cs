@@ -18,12 +18,12 @@ public class SpikeMove : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//Debug.Log (hinge.jointAngle);
-		if (hinge.jointAngle >= AngleMax) {
+		if (hinge.jointAngle >= AngleMax && hinge.useMotor == true) {
 			motor.motorSpeed = -motorStr;
 			hinge.motor = motor;
 			}
 
-		if (hinge.jointAngle <= AngleMin) {
+		if (hinge.jointAngle <= AngleMin && hinge.useMotor == true) {
 			motor.motorSpeed = motorStr;
 			hinge.motor = motor;
 		}

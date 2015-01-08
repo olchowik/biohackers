@@ -9,7 +9,7 @@ public class BacteriaTouchController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		if (GameControl.control.flag == "return" && Application.loadedLevelName == "chamber1") {
+		if (GameControl.control.flag == "return" && Application.loadedLevelName == GameControl.control.base_level) {
 			gameObject.rigidbody2D.position = new Vector2(GameControl.control.last_x, GameControl.control.last_y);
 		}
 	}
