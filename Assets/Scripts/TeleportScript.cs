@@ -7,6 +7,7 @@ public class TeleportScript : MonoBehaviour {
 	public string level = "";
 	public string main_chamber = "";
 	public float delta_y = 0f;
+	public float delta_x = 0f;
 
 	// Use this for initialization
 	void Start () {
@@ -20,7 +21,7 @@ public class TeleportScript : MonoBehaviour {
 		if(bacteria.gameObject.name == "player"){
 			if (Application.loadedLevelName == main_chamber) {
 				// saving position of the player
-				GameControl.control.last_x = bacteria.gameObject.rigidbody2D.position.x;
+				GameControl.control.last_x = bacteria.gameObject.rigidbody2D.position.x - delta_x;
 				GameControl.control.last_y = bacteria.gameObject.rigidbody2D.position.y - delta_y;
 				GameControl.control.flag   = "return";
 				GameControl.control.base_level = main_chamber;
