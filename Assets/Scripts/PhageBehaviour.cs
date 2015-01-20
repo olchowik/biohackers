@@ -26,6 +26,8 @@ public class PhageBehaviour : MonoBehaviour {
 			transform.Translate(escapeMove);
 		}
 	}
+
+
 	
 	void MakeRandomMove() {
 		if (moveDuration <= 0) {
