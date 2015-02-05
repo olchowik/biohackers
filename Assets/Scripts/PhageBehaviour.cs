@@ -3,9 +3,20 @@ using System.Collections;
 
 public class PhageBehaviour : MonoBehaviour {
 
+	/* this script controls not only phage behaviour but also
+	 * DNA, antibiotics
+	 * because they all basicaly do same thing in game
+	 */
+
 	public float driftMax = 0.25f;
 	public float driftStr = 0.01f;
 	public float moveFreq = 0.1f;
+
+	// for normal non-changing phage change_type should be set for 4f - it turns off approach trigger 
+	// for changing phage set type to 4f and change_type to desired phage type
+	public float type = 0f;
+	public float change_type = 4f;
+
 	int moveDuration = 0;
 	Vector2 current_move = new Vector2(0f,0f);
 	float start_x = 0f;
