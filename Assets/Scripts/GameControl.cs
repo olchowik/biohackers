@@ -16,10 +16,6 @@ public class GameControl : MonoBehaviour {
 	public GameObject prefab_phage;
 	public GameObject[] prefabs_antibiotics;
 	public GameObject prefab_DNA;
-	
-	//public List<List<float>> chamber1 = new List<List<float>> ();
-	//public List<List<float>> chamber2 = new List<List<float>> ();
-	//public List<List<float>> chamber3 = new List<List<float>> ();
 
 	public Dictionary<string, List<List<float>>> chamber1 = new Dictionary<string, List<List<float>>>();
 	public Dictionary<string, List<List<float>>> chamber2 = new Dictionary<string, List<List<float>>>();
@@ -56,6 +52,7 @@ public class GameControl : MonoBehaviour {
 				GameObject phg = Instantiate(prefab_phage, new Vector2(coords[0], coords[1]), Quaternion.identity) as GameObject;
 				phg.GetComponent<PhageBehaviour>().type = coords[2];
 				phg.GetComponent<PhageBehaviour>().change_type = coords[3];
+				Debug.Log("sprite created");
 				phg.GetComponentInChildren<PhageRange>().SetSprite();
 			}
 			// antibiotics
