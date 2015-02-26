@@ -11,6 +11,8 @@ public class GameControl : MonoBehaviour {
 	public string base_level = "";
 	public int health        = 100;
 	public int glucose       = 0;
+	// 3 states: ON: begin eating, OFF: not eating, EATING: eating in progress, don't start more
+	public string eat_glc    = "OFF"; 
 
 	public Rigidbody2D prefab_glucose;
 	public GameObject prefab_phage;
@@ -92,11 +94,29 @@ public class GameControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (eat_glc == "ON") {
+			InvokeRepeating("EatGlucose", 1, 1);
+			GameControl.control.eat_glc = "EATING";
+		}
+		if (eat_glc == "OFF") {
+			CancelInvoke("EatGlucose");
+		}
 	}
 
-	void OnGUI() {
-		GUI.Label (new Rect (10, 10, 100, 30), "Health: " + health);
-		GUI.Label (new Rect (10, 25, 100, 30), "Glucose: " + glucose);
-		GUI.Label (new Rect (10, 40, 100, 30), Application.loadedLevelName);
+	void EatGlucose() {
+		GameControl.control.glucose -= 1;
+		}
+
+	public void ButtonSelect() {
+		if (eat_glc == "OFF") { GameControl.control.eat_glc = "ON"; }
+		if (eat_glc == "EATING") { GameControl.control.eat_glc = "OFF"; }
 	}
+
+	//testing UI
+	void OnGUI() {
+		GUI.Label (new Rect (400, 10, 100, 30), "Health: " + health);
+		GUI.Label (new Rect (400, 25, 100, 30), "Glucose: " + glucose);
+		GUI.Label (new Rect (400, 40, 100, 30), Application.loadedLevelName);
+	}
+
 }
