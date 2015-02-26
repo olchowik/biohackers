@@ -5,7 +5,7 @@ AnimatorController:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: player
+  m_Name: player_tile
   serializedVersion: 2
   m_AnimatorParameters: []
   m_AnimatorLayers:
@@ -25,11 +25,11 @@ State:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: base
+  m_Name: tie
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400000, guid: 90cafabdde5f02146a835df80b1b000d, type: 2}
+  - {fileID: 7400000, guid: ea89fe1eb5b06c64bb5d5ba7b2914cc0, type: 2}
   m_ParentStateMachine: {fileID: 110700000}
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
